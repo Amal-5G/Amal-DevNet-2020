@@ -1,2 +1,5 @@
-# Amal-DevNet-2020
-New website to save documents, study guide and notes of my journey to learning Networking
+<h5> IDEAS SIMPLIFIED </h5>
+
+<h1> NewAmal 2.0 </h1>
+
+<strong> Personal Journey   |  Document the Movement  | power to perceive  </strong>
